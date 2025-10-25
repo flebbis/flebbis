@@ -7,5 +7,4 @@
 <span class="line"><span style="color:#FFAB70">! Software engineer</span></span>
 <span class="line"><span style="color:#6A737D"># 📖 computer science</span></span></code></pre>
 <hr>
-<p><a href="https://github.com/jewdev">jewdev</a>
-Last Edited on: 03/09/2021</p> 
+
